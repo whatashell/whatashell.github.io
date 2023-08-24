@@ -26,7 +26,7 @@ gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 # If you're using the MathJax math engine instead, free to remove the line below:
 gem "kramdown-math-katex"
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
+#gem "jekyll-include-cache", group: :jekyll_plugins
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
