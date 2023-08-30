@@ -25,10 +25,10 @@ title:                 WhatASh3ll
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Blog de seguridad ofensiva.
+  Blog de seguridad ofensiva. (A.k.a Rapture)
 
 # A shorter description for the sidebar.
-tagline:               Blog de seguridad ofensiva
+tagline:               Blog de seguridad ofensiva. (A.k.a Rapture)
 
 # A list of keywords for your blog
 keywords:              [hacking, seguridad ofensiva, cybersecurity]
@@ -41,8 +41,8 @@ logo:                  /assets/img/2A627E52-ED2D-4872-B4CD-70C983CE86B0.jpeg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Alejandro Auñón
+  email:               alejandro.auleon@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -54,8 +54,8 @@ menu:
 #    url:               /projects/
 #  - title:             Résumé*
 #    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
