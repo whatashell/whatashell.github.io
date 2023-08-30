@@ -23,7 +23,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    #twitter:         <username>
     github:          whatashell
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
