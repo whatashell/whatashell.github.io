@@ -4,7 +4,7 @@ title: HCK101
 sitemap: false
 ---
 
-# Protegiendo el Mundo Digital: Una Introducción a la Ciberseguridad
+# Protegiendo el Mundo Digital
 
 ## Introducción
 
