@@ -1,10 +1,3 @@
-PATH
-  remote: #jekyll-theme-hydejack
-  specs:
-    jekyll-theme-hydejack (9.1.6)
-      jekyll (>= 3.8, < 5.0)
-      jekyll-include-cache (~> 0.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -274,7 +267,7 @@ PLATFORMS
 DEPENDENCIES
   duktape
   github-pages
-  jekyll (~> 3.9.3)
+  jekyll (~> 3.9.0)
   jekyll-compose
   jekyll-default-layout
   jekyll-feed
@@ -287,7 +280,6 @@ DEPENDENCIES
   jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-hydejack!
   jekyll-titles-from-headings
   kramdown-math-katex
   webrick
