@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mi experiencia con la certificacion del CPPTv2'
+title: 'Mi experiencia con la certificación del CPPTv2'
 image: /assets/img/blog/certificado.png
 accent_image:
   background: url('/assets/img/blog/certificado.png') center/cover
