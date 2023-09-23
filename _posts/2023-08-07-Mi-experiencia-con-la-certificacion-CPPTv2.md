@@ -18,7 +18,7 @@ Hoy os vengo hablar de unas de las certificaciones mas extendidas y populares de
 
 ## ¿Por qué eCPPT?
 
-Tras aprobar el PNPT, decidí prepararme la nueva certificación de *penetration tester* (CPTS) que había sacado hack the box meses atrás. Puesto que esta certificación requiere completar una path de formación obligatorio de la academia de HTB, y veía que me llevaría algo de tiempo, decidí que quería presentarme a alguna certificación durante el tiempo que me preparaba el CPTS.
+Tras aprobar el PNPT, decidí prepararme la nueva certificación de *penetration tester* (CPTS) que había sacado hack the box meses atrás. Puesto que esta certificación requiere completar una path de formación obligatorio de la academia de HTB, y veía que me llevaría algo de tiempo, decidí que era el momento de presentarme a alguna certificación durante este tiempo.
 
 Esta certificación estuvo en mi radar en 2022 pero por falta de tiempo finalmente no me presente, lo que me dejo una espinita que pocos meses después había que atender.
 
@@ -38,7 +38,7 @@ El eCPPTv2 es el siguiente paso al eJPT una certificacion de “entry level” q
 - Desarrollo de exploits
 - Habilidades avanzadas de elaboración de informes y remediación.
 
-## Me recomiendas esta certificacion?
+## ¿Me recomiendas esta certificacion?
 
 Diría que si. Considero que es una certificación bastante equilibrada y completa, que aunque no es ciertamente compleja técnicamente hablando, es algo “trabajosa” , ya que tendrás que ir salvando ciertas limitaciones y obstáculos que iras encontrado a lo largo del examen. Desde luego, esta certificación pondrá a prueba tu nivel de paciencia. 
 
@@ -59,9 +59,9 @@ Como ya hemos comentado, una base solida para abordar con éxito esta certificac
 
 Si tuviera que destacar algunos de ellos, hablaría de pivoting, enumeración post-explotacion y por buffer overflow. Estas tres cosas son indispensables para aprobar, si no has practicado previamente con ello te será muy difícil. Pero no te desanimes que más adelante te explicaré cómo prepararte esta certificación para que puedas presentarte con tranquilidad y afrontarla sin problemas.
 
-## Caracteristicas del examen
+## Características del examen
 
-- **Tomate tu tiempo:** Nada mas empezar el examen os recomiendo que os leáis la *Letter of Commitment* (o carta de compromiso) donde se explica cómo funciona el examen, el alcance que debes respetar, las normas a seguir, particularidades del laboratorio e información de como debes elaborar el reporte final. No lo olvides, tomate tu tiempo en entender bien lo que en ella se explica.
+- **Tómate tu tiempo:** Nada mas empezar el examen os recomiendo que os leáis la *Letter of Commitment* (o carta de compromiso) donde se explica cómo funciona el examen, el alcance que debes respetar, las normas a seguir, particularidades del laboratorio e información de como debes elaborar el reporte final. No lo olvides, tómate tu tiempo en entender bien lo que en ella se explica.
 - **Duración del examen:** 14 días máximo (7 días de laboratorio y otros 7 días para elaborar el reporte), pudiendo finalizar el examen antes si logras completar algunas tareas en menos tiempo (por ejemplo, en 4 días podrías terminar laboratorio y en 3 días el reporte). En mi caso me llevo 5 días el laboratorio y 3 días el informe, ya que por mi horario laboral, solo disponía de las tardes para dedicarle tiempo. Si cumples los requisitos de conocimientos mencionados anteriormente y llevas muy bien preparado tanto el pivoting como el buffer overflow, lo normal es acabar el examen antes de los plazos marcados por eLearnSecurity.
 - **Limitación de herramientas:** ninguna
 - **Reset**: el laboratorio se puede resetear un máximo de 4 veces al día.
