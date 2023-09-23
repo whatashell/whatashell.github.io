@@ -38,7 +38,7 @@ El eCPPTv2 es el siguiente paso al eJPT una certificacion de “entry level” q
 - Desarrollo de exploits
 - Habilidades avanzadas de elaboración de informes y remediación.
 
-Me recomiendas esta certificacion?
+## Me recomiendas esta certificacion?
 
 Diría que si. Considero que es una certificación bastante equilibrada y completa, que aunque no es ciertamente compleja técnicamente hablando, es algo “trabajosa” , ya que tendrás que ir salvando ciertas limitaciones y obstáculos que iras encontrado a lo largo del examen. Desde luego, esta certificación pondrá a prueba tu nivel de paciencia. 
 
