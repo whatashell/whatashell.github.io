@@ -12,7 +12,7 @@ description: >
 hide_last_modified: true
 ---
 
-Hoy os vengo hablar de unas de las certificaciones mas extendidas y populares de eLearnSecurity, el eCPPTv2. En primer lugar quiero dar las gracias a Zerolynx la empresa para la que ejerzo mi labor de pentester, la cual me ha brindado la oportunidad adquirir esta certificación.
+Hoy os vengo hablar de unas de las certificaciones mas extendidas y populares de eLearnSecurity, el eCPPTv2. 
 
 ¡Tras 1 mes de espera a la resolución del examen, puedo decir que estoy certificado en el eCPPTv2!
 
