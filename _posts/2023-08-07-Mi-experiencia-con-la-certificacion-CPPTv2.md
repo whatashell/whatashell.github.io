@@ -16,7 +16,7 @@ Hoy os vengo hablar de unas de las certificaciones mas extendidas y populares de
 
 ¡Tras 1 mes de espera a la resolución del examen, puedo decir que estoy certificado en el eCPPTv2!
 
-## ¿Por que eCPPT?
+## ¿Por qué eCPPT?
 
 Tras aprobar el PNPT, decidí prepararme la nueva certificación de *penetration tester* (CPTS) que había sacado hack the box meses atrás. Puesto que esta certificación requiere completar una path de formación obligatorio de la academia de HTB, y veía que me llevaría algo de tiempo, decidí que quería presentarme a alguna certificación durante el tiempo que me preparaba el CPTS.
 
