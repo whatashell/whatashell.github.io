@@ -57,11 +57,11 @@ Como ya hemos comentado, una base solida para abordar con éxito esta certificac
 7. **Persistencia** 
 8. **Buffer Overflow**
 
-Si tuviera que destacar algunos de ellos, hablaría de pivoting, enumeración post-explotacion y por buffer overflow. Estas tres cosas son indispensables para aprobar, si no has practicado previamente con ello te será muy difícil. Pero no te desanimes que mas adelante te explicare como prepararte para esta certificación para que puedas presentarte con tranquilidad y llegar a aprobar.
+Si tuviera que destacar algunos de ellos, hablaría de pivoting, enumeración post-explotacion y por buffer overflow. Estas tres cosas son indispensables para aprobar, si no has practicado previamente con ello te será muy difícil. Pero no te desanimes que más adelante te explicaré cómo prepararte esta certificación para que puedas presentarte con tranquilidad y afrontarla sin problemas.
 
 ## Caracteristicas del examen
 
-- **Tomate tu tiempo:** Nada mas empezar el examen os recomiendo que os leáis la *Letter of Commitment* (o carta de compromiso) donde se este explica como funciona el examen, el alcance que debes respetar, las normas a seguir, particularidades del laboratorio e información de como debes elaborar el reporte final. No lo olvides, tomate tu tiempo en entender bien lo que en ella se explica.
+- **Tomate tu tiempo:** Nada mas empezar el examen os recomiendo que os leáis la *Letter of Commitment* (o carta de compromiso) donde se explica cómo funciona el examen, el alcance que debes respetar, las normas a seguir, particularidades del laboratorio e información de como debes elaborar el reporte final. No lo olvides, tomate tu tiempo en entender bien lo que en ella se explica.
 - **Duración del examen:** 14 días máximo (7 días de laboratorio y otros 7 días para elaborar el reporte), pudiendo finalizar el examen antes si logras completar algunas tareas en menos tiempo (por ejemplo, en 4 días podrías terminar laboratorio y en 3 días el reporte). En mi caso me llevo 5 días el laboratorio y 3 días el informe, ya que por mi horario laboral, solo disponía de las tardes para dedicarle tiempo. Si cumples los requisitos de conocimientos mencionados anteriormente y llevas muy bien preparado tanto el pivoting como el buffer overflow, lo normal es acabar el examen antes de los plazos marcados por eLearnSecurity.
 - **Limitación de herramientas:** ninguna
 - **Reset**: el laboratorio se puede resetear un máximo de 4 veces al día.
@@ -71,12 +71,12 @@ Si tuviera que destacar algunos de ellos, hablaría de pivoting, enumeración po
 
 Practica CTFs te ayudara mucho a la hora de enumerar objetivos, explotar vulnerabilidades conocidas, escalar privilegios, etc. Por ejemplo, las maquinas nivel easy/medium de HTB serian buena opción para practicar.
 
-Prepara muy bien la metodología y las tecnicas de pivoting/port forwarding. Para ello te recomiendo que hagas el laboratorio que S4vitar ha preparado adhoc para esta certificacion en donde macharás hasta la saciedad el pivoting entre maquinas. Aunque el pivoting del examen no llega a ser tan complejo como el de este laboratorio, te vendrá muy bien a modo de aprendizaje para fijar una buena base.
+Prepara muy bien la metodología y las tecnicas de pivoting/port forwarding. Para ello te recomiendo que hagas el [laboratorio](https://www.youtube.com/watch?v=L1jSoCcvRY4) que S4vitar ha preparado adhoc para esta certificacion en donde machacarás hasta la saciedad el pivoting entre maquinas. Aunque el pivoting del examen no llega a ser tan complejo como el de este laboratorio, te vendrá muy bien a modo de aprendizaje para fijar una buena base.
 
-Por ultimo, el archi conocido BoF (Buffer overflow), el mismo que aparece en otras certificaciones, como el OSCP. Os daréis cuenta que explotar un bof como el que aparece en el examen no es para nada difícil, de hecho puede llegar a ser algo trivial si logras entender bien la metodología, es por ello que te invito a que no tengas miedo y aprendas a explotar este tipo de vulnerabilidades que cada vez se ven menos. Para aprender bof te recomiendo la sala de *Buffer Overflow Prep* ********de Tryhackme, en donde lo explican fantásticamente bien y además te puedo asegurar que si entiendes y logras hacer este bof, sacaras el del examen a la primera (acuérdate de mi XD)
+Por ultimo, el archiconocido BoF (Buffer overflow), el mismo que aparece en otras certificaciones, como el OSCP. Os daréis cuenta que explotar un bof como el que aparece en el examen no es para nada difícil, de hecho puede llegar a ser algo trivial si logras entender bien la metodología, es por ello que te invito a que no tengas miedo y aprendas a explotar este tipo de vulnerabilidades que cada vez se ven menos. Para aprender bof te recomiendo la sala de [*Buffer Overflow Prep*](https://tryhackme.com/room/bufferoverflowprep) de Tryhackme, en donde lo explican fantásticamente bien y además te puedo asegurar que si entiendes y logras hacer este bof, sacaras el del examen a la primera (acuérdate de mi XD)
 
-Nada mas, esto es todo, espero que haya sido utilidad, y anime a mucha gente a presentarse a esta certificación.
+Nada más, esto es todo, espero que haya sido utilidad, y anime a mucha gente a presentarse a esta certificación.
 
-Valoracion final de la certificacion: 7/10
+Valoración final de la certificación: 7/10
 
 Próximamente os compartiré mi experiencia con la certificación PNPT y cómo me preparé para lograr aprobarla, así como, la preparación que estoy siguiendo para presentarme (espero que no dentro de mucho) al CRTE. :-)
