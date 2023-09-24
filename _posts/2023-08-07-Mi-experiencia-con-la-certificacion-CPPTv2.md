@@ -79,4 +79,4 @@ Nada más, esto es todo, espero que haya sido utilidad, y anime a mucha gente a 
 
 Valoración final de la certificación: 7/10
 
-Próximamente os compartiré mi experiencia con la certificación PNPT y cómo me preparé para lograr aprobarla, así como, la preparación que estoy siguiendo para presentarme (espero que no dentro de mucho) al CRTE. :-)
+Próximamente os compartiré mi experiencia con la certificación PNPT y cómo me preparé para lograr aprobarla, así como, la preparación que estoy siguiendo para presentarme (espero que no dentro de mucho) al OSCP. :-)
